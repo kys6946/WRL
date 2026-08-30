@@ -1,4 +1,4 @@
-# NRL — Node Rendering Library
+# NRL — Node Rendering Library(yes the project name changed after the repo creation bruh)
 
 > ⚠️ **Work in Progress**
 
