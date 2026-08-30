@@ -86,7 +86,7 @@ The example setup is currently very basic.
 
 At the moment, **only one `.cpp` file should be placed inside the `examples` directory**.
 
-Having multiple `.cpp` files there will cause them to be compiled together into the same executable, which is not currently handled by the CMake configuration.
+Having multiple `.cpp` files there will result in a CMake error, multiple test file compilation is not currently handled by the CMake configuration.
 
 This will be improved later so that multiple examples can be built as separate executables.
 
