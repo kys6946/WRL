@@ -30,7 +30,7 @@ Clone the repository and enter the project directory:
 
 ```bash
 git clone https://github.com/kys6946/WRL.git
-cd WRL
+cd NRL
 ```
 
 Configure the project with CMake:
